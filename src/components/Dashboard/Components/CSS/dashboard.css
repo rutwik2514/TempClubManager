@@ -1,0 +1,65 @@
+/* * {
+    margin: 0 !important;
+    padding: 0 !important;
+} */
+
+.left-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.right-up {
+    background-color: rgb(242, 237, 243);
+}
+
+.right-low {
+    background-color: rgb(242, 237, 243);
+}
+
+.up1-div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.up2-div{
+    justify-content: space-evenly;
+}
+
+.things {
+    background-color: white;
+    height: 16vh;
+}
+
+.low1-div {
+    background-color: white;
+    height: 45vh;
+}
+
+.low2-div {
+    background-color: white;
+    height: 45vh;
+}
+
+.right-div{
+
+    background-color: rgb(242, 237, 243);
+
+
+
+}
+
+.right-low {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.diff-btn {
+    height: 6.5vh;
+    width: 14vw;
+}
+.profile-div{
+    font-size:x-large;
+}
