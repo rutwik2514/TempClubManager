@@ -1,4 +1,4 @@
-import Home from "./pages/Home";
+import Home from "./components/Homepage/pages/Home";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 // import Login from "./components/Login";
 import Login from "./components/Login/Login";
@@ -11,8 +11,6 @@ function App() {
           <Route exact path="/" element={<Home />} />
           <Route exact path="/login" element={<Login />} />
           <Route exact path="/dashboard" element={<Dashboard />} />
-
-
         </Routes>
       </BrowserRouter>
     </>

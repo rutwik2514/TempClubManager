@@ -3,7 +3,7 @@ import "./Voice.css";
 import { Container, Row, Col } from "reactstrap";
 import Slider from "react-slick";
 import Lottie from "lottie-react";
-import voice from "../../assests/images/Voice.json"
+import voice from "../../../assests/images/Voice.json"
 
 const Testimonials = () => {
   const settings = {

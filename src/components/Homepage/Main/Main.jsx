@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "reactstrap";
-import heroImg from "../../assests/images/hero-img1.png";
-import logo from "../../assests/images/LOGO1.json"
+import heroImg from "../../../assests/images/hero-img1.png";
+import logo from "../../../assests/images/LOGO1.json"
 import "./Main.css"
 import Lottie from "lottie-react";
 const HeroSection = () => {

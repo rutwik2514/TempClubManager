@@ -1,8 +1,8 @@
 import React from "react";
 import { Container, Row, Col } from "reactstrap";
-import courseImg1 from "../../assests/images/CodeSprint.webp";
-import courseImg2 from "../../assests/images/Devheat.webp";
-import courseImg3 from "../../assests/images/API.jpeg";
+import courseImg1 from "../../../assests/images/CodeSprint.webp";
+import courseImg2 from "../../../assests/images/Devheat.webp";
+import courseImg3 from "../../../assests/images/API.jpeg";
 import "./Events.css";
 import CourseCard from "./Event_Card";
 
